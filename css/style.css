@@ -412,7 +412,7 @@
            /* About Section */
 
            .landing_about_section {
-               background: url('/images/about-banner1.jpg');
+               background: url('../images/about-banner1.jpg');
                background-repeat: no-repeat;
                background-size: cover;
                background-position: center;
